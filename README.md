@@ -23,16 +23,16 @@ https://app.powerbi.com/view?r=eyJrIjoiMjgxODEyYzAtNTNhZC00ZTBlLWE2NjAtMTdhYmU1O
 - Auto Refresh: Set up auto-refresh for data through gateways.
 
 ### Business Terms
-- Net Sales and Net Invoice Sales
-- Gross Margin and Gross Margin %
-- Pre-Invoice Deductions and Post-Invoice Deductions
-- COGS (Cost of Goods Sold)
-- Net Profit and Net Profit %
-- Absolute Error
-- Variance and Targets
-- YTG (Year to Go)
-- YTD (Year to Date)
-- Direct, Retailer, Customer, Consumer, and Distributors
+- Revenue
+- REVPAR (Revenue Per Available Room)
+- ADR (Average Dialy Rate)
+- DSRN (Dialy Sellable Room Nights)
+- DBRN (Dialy Booked Room Nights)
+- DURN (Dialy Utilised Room Nights)
+- Realisation %
+- Occupancy %
+- Average Rating
+
 ## Proficiency in Soft Skills:
 **Stakeholder Engagement:** Proficient in stakeholder mapping, communication, feedback management, and analysis.
 **Business Acumen:** Demonstrated expertise in sales, finance, marketing, and supply chain domains.
