@@ -34,5 +34,5 @@ https://app.powerbi.com/view?r=eyJrIjoiMjgxODEyYzAtNTNhZC00ZTBlLWE2NjAtMTdhYmU1O
 - Average Rating
 
 ## Proficiency in Soft Skills:
-**Stakeholder Engagement:** Proficient in stakeholder mapping, communication, feedback management, and analysis.
-**Business Acumen:** Demonstrated expertise in sales, finance, marketing, and supply chain domains.
+- **Stakeholder Engagement:** Proficient in stakeholder mapping, communication, feedback management, and analysis.
+- **Business Acumen:** Demonstrated expertise in sales, finance, marketing, and supply chain domains.
